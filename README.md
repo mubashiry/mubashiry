@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mubashir Yasin.
+- 👋 Hi, I’m **Mubashir Yasin**.
 - 👀 I design and build web / mobile apps that deliver better performance and good experience.
 - 🌱 I’m good in Frontend and currently learning skills related to Backend technologies.
 - 💞️ I’m looking to collaborate on any open source project related to Frontend.
